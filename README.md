@@ -14,18 +14,23 @@
 ## 기술 스택
 ### Languages
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=FFFFFF" />
+
 ### Frameworks/Engines
 <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/>
+
 ### Networking
 <img src="https://img.shields.io/badge/photon-004480?style=flat-square&logo=photon&logoColor=FFFFFF"/>
+
 ### Services
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFFFFF"/>
+
 <br>
 
 ## 프로젝트 관리
-# Collaboration Tools
+### Collaboration Tools
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=FFFFFF"/>
-# Project Management Tools
+
+### Project Management Tools
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=FFFFFF"/>
 <br>
 
